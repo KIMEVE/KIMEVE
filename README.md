@@ -8,8 +8,10 @@ You can click the Preview link to take a look at your changes.
 - IP Verification Engineer
   
 
-## 💻SKILL
-<img src="https://img.shields.io/badge/SystemVerilog-4495D1.svg?&style=for-the-badge&logo=SystemVerilog&logoColor=white"> <img src="https://img.shields.io/badge/UVM-607078.svg?&style=for-the-badge&logo=UVM&logoColor=white"> <img src="https://img.shields.io/badge/AMBA-00A4FF.svg?&style=for-the-badge&logo=AMBA&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Perl-39457E.svg?&style=for-the-badge&logo=Perl&logoColor=white"> <img src="https://img.shields.io/badge/CSH-FFD500.svg?&style=for-the-badge&logo=CSH&logoColor=black"> <img src="https://img.shields.io/badge/RTL-FA002E.svg?&style=for-the-badge&logo=RTL&logoColor=white">
+## 💻SKILL & TOOL
+LANG <img src="https://img.shields.io/badge/SystemVerilog-4495D1.svg?&style=for-the-badge&logo=SystemVerilog&logoColor=white"> <img src="https://img.shields.io/badge/UVM-607078.svg?&style=for-the-badge&logo=UVM&logoColor=white"> <img src="https://img.shields.io/badge/AMBA-00A4FF.svg?&style=for-the-badge&logo=AMBA&logoColor=white"> <img src="https://img.shields.io/badge/RTL-FA002E.svg?&style=for-the-badge&logo=RTL&logoColor=white">
+
+SCRIPT <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Perl-39457E.svg?&style=for-the-badge&logo=Perl&logoColor=white"> <img src="https://img.shields.io/badge/CSH-FFD500.svg?&style=for-the-badge&logo=CSH&logoColor=black"> 
 
 
 ## 🏢경력
