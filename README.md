@@ -4,9 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🎯Introduction
-- SoC Verification Engineer
-- IP Verification Engineer
-  
+SoC Verification Engineer
+IP Verification Engineer
+
+
 
 ## 💻SKILL & TOOL
 LANG <img src="https://img.shields.io/badge/SystemVerilog-4495D1.svg?&style=for-the-badge&logo=SystemVerilog&logoColor=white"> <img src="https://img.shields.io/badge/UVM-607078.svg?&style=for-the-badge&logo=UVM&logoColor=white"> <img src="https://img.shields.io/badge/AMBA-00A4FF.svg?&style=for-the-badge&logo=AMBA&logoColor=white"> <img src="https://img.shields.io/badge/RTL-FA002E.svg?&style=for-the-badge&logo=RTL&logoColor=white">
@@ -14,8 +15,13 @@ LANG <img src="https://img.shields.io/badge/SystemVerilog-4495D1.svg?&style=for-
 SCRIPT <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Perl-39457E.svg?&style=for-the-badge&logo=Perl&logoColor=white"> <img src="https://img.shields.io/badge/CSH-FFD500.svg?&style=for-the-badge&logo=CSH&logoColor=black"> 
 
 
-## 🏢경력
-**- 삼성전자 System LSI / Modem 개발팀 / SOC_RF 검증 파트 [2018.02 - 2021.11]**
+
+## 🏢Career
+SOC Full Chip Setup
+
+IP Function Verification
+
+<!---**- 삼성전자 System LSI / Modem 개발팀 / SOC_RF 검증 파트 [2018.02 - 2021.11]**
   - 역할 : CP Full Chip TB Setup
   - 성과
     - TAT 개선 : TB 내 UVM 코드 최적화
@@ -31,7 +37,7 @@ SCRIPT <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-b
     - Quick Sleep Seeping Test 추가 및 자동화
     - DFS 검증 자동화 : TAT 개선 및 Coverage 확보
     - DM Modeling 개선 및 검증 포인트 추가
-    - FdAgc checker 개선 및 검증 포인트 추가
+    - FdAgc checker 개선 및 검증 포인트 추가--->
    
 
 ## 🏆사내 수상 내역
